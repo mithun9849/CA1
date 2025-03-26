@@ -7,6 +7,7 @@ printf("B.tech.CSE)
 printf("Btech.CSE");
  case 2:
 printf("Btech AIML")
+printf("Btech AIML");
 break;
  case 3:
 printf("Btech ECE")
