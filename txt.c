@@ -12,4 +12,7 @@ printf("Btech ECE")
 break;
 case 4:
 printf("Btech MEC");
+printf("Btech MEC");
+printf("Btech MEC");
+printf("Btech MEC");
 break;
