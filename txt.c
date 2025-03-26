@@ -1,4 +1,4 @@
-ii#include<stdio.h>
+#include<stdio.h>
 int main()
 {
  switch;
@@ -10,4 +10,6 @@ break;
  case 3:
 printf("Btech ECE")
 break;
-
+case 4:
+printf("Btech MEC");
+break;
