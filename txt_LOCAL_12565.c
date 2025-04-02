@@ -7,10 +7,7 @@ printf("B.tech.CSE)
 printf("B.tech.CSE);
 printf("B.tech.CSE);
 printf("B.tech.CSE);
-case 2:
-printf("Btech AIML");
-printf("Btech AIML");
-printf("Btech AIML");
+ case 2:
 printf("Btech AIML");
 break;
  case 3:

@@ -7,10 +7,13 @@ printf("B.tech.CSE)
 printf("B.tech.CSE);
 printf("B.tech.CSE);
 printf("B.tech.CSE);
-case 2:
+ case 2:
+<<<<<<< HEAD
+=======
+printf("Btech AIML")
 printf("Btech AIML");
 printf("Btech AIML");
-printf("Btech AIML");
+>>>>>>> branch2
 printf("Btech AIML");
 break;
  case 3:
