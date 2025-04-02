@@ -21,4 +21,7 @@ printf("Btech AIML");
 break;
 case 4:
 printf("Btech MEC");
+printf("Btech MEC");
+printf("Btech MEC");
+printf("Btech MEC");
 break;
